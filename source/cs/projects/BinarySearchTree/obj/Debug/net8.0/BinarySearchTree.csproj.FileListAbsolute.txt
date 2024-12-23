@@ -22,7 +22,6 @@ C:/Users/demon/OneDrive/Documents/GitHub/app-dev/source/cs/projects/BinarySearch
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfoInputs.cache
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfo.cs
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.csproj.CoreCompileInputs.cache
-/app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.sourcelink.json
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.dll
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/refint/BinarySearchTree.dll
 /app/source/cs/projects/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.pdb

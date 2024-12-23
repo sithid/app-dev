@@ -20,13 +20,8 @@ RUN apt-get install -y \
     npm \
     yarn \
     cargo \
-    nginx \
     dotnet-sdk-8.0
 
 RUN apt-get install -y gcc g++ cmake clang
 
-EXPOSE 8080:80
-
 WORKDIR /app
-
-COPY . .
