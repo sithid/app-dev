@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\app-dev\\source\\cs\\projects\\CLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49034E73-7B5F-45E1-8B5D-E8B3A234A1D1}|CLearning.vcxproj|C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\app-dev\\source\\cs\\projects\\CLearning\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49034E73-7B5F-45E1-8B5D-E8B3A234A1D1}|CLearning.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\app-dev\\source\\cs\\projects\\CLearning\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\app-dev\\source\\cs\\projects\\CLearning\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-06T08:37:06.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
